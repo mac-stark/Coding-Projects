@@ -10,6 +10,6 @@ classifiers, as well as image preprocessing networks. A Jupyter Python notebook 
 format is included.
 
 Final Project for COMP 411: in which I implemented a postfix arithmetic interpreter in MIPS Assembly language. I implemented this using
-a stack, and with the use of extended pseudo instructions.
+a single stack, and with the use of extended pseudo instructions.
 
 Sample of Math and programming problems from MATH 661: A small overview of some of the problems I was tasked with solving in MATH 661. These problems include both programming problems, and proof based Math problems, writen in LaTex.

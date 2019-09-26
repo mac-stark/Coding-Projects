@@ -1,5 +1,5 @@
 # Coding-Projects
-Here is a brief overview of some of the bigger and more technical programming projects I undertook over the course of my Sophomore
+Here is a brief overview of some of the more technical programming projects I undertook over the course of my Sophomore
 and Junior Years.
 
 Included in these files are the following:
